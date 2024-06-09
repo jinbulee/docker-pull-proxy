@@ -1,8 +1,8 @@
 homeassistant/home-assistant:2024.6 registry.cn-hangzhou.aliyuncs.com/dhubio/home-assistant:2024.6
 python:3.10 registry.cn-hangzhou.aliyuncs.com/dhubio/python:3.10
-nginx:latest registry.cn-hangzhou.aliyuncs.com/nginx:latest
-postgres:alpine3.20 registry.cn-hangzhou.aliyuncs.com/postgres:alpine3.20
-alpine:latest registry.cn-hangzhou.aliyuncs.com/alpine:latest
-mysql:8.40 registry.cn-hangzhou.aliyuncs.com/mysql:8.40
-mysql:5.7 registry.cn-hangzhou.aliyuncs.com/mysql:5.7
-redis:7.0-alpine3.20 registry.cn-hangzhou.aliyuncs.com/redis:7.0-alpine3.20
+nginx:latest registry.cn-hangzhou.aliyuncs.com/dhubio/nginx:latest
+postgres:alpine3.20 registry.cn-hangzhou.aliyuncs.com/dhubio/postgres:alpine3.20
+alpine:latest registry.cn-hangzhou.aliyuncs.com/dhubio/alpine:latest
+mysql:8.40 registry.cn-hangzhou.aliyuncs.com/dhubio/mysql:8.40
+mysql:5.7 registry.cn-hangzhou.aliyuncs.com/dhubio/mysql:5.7
+redis:7.0-alpine3.20 registry.cn-hangzhou.aliyuncs.com/dhubio/redis:7.0-alpine3.20
