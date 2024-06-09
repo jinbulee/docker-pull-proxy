@@ -7,4 +7,4 @@ alpine:3.20 registry.cn-hangzhou.aliyuncs.com/dhubio/alpine:3.20
 mysql:8.40 registry.cn-hangzhou.aliyuncs.com/dhubio/mysql:8.40
 mysql:5.7 registry.cn-hangzhou.aliyuncs.com/dhubio/mysql:5.7
 redis:7.0-alpine3.20 registry.cn-hangzhou.aliyuncs.com/dhubio/redis:7.0-alpine3.20
-prom/prometheus:latest registry.cn-hangzhou.aliyuncs.com/dhubio/prom/prometheus:latest
+prom/prometheus:latest registry.cn-hangzhou.aliyuncs.com/dhubio/prometheus:latest
