@@ -1,18 +1,2 @@
-# homeassistant/home-assistant:2024.6 registry.cn-hangzhou.aliyuncs.com/dhubio/home-assistant:2024.6
-# python:3.10 registry.cn-hangzhou.aliyuncs.com/dhubio/python:3.10
-# nginx:latest registry.cn-hangzhou.aliyuncs.com/dhubio/nginx:latest
-# postgres:alpine3.20 registry.cn-hangzhou.aliyuncs.com/dhubio/postgres:alpine3.20
-# alpine:latest registry.cn-hangzhou.aliyuncs.com/dhubio/alpine:latest
-# alpine:3.20 registry.cn-hangzhou.aliyuncs.com/dhubio/alpine:3.20
-# mysql:8.4.0 registry.cn-hangzhou.aliyuncs.com/dhubio/mysql:8.4.0
-# mysql:5.7 registry.cn-hangzhou.aliyuncs.com/dhubio/mysql:5.7
-# redis:7.0-alpine3.20 registry.cn-hangzhou.aliyuncs.com/dhubio/redis:7.0-alpine3.20
-# prom/prometheus:latest registry.cn-hangzhou.aliyuncs.com/dhubio/prometheus:latest
-# prom/prometheus:v2.37.6 registry.cn-hangzhou.aliyuncs.com/dhubio/prometheus:v2.37.6
-# prom/alertmanager:v0.25.0 registry.cn-hangzhou.aliyuncs.com/dhubio/alertmanager:v0.25.0
-# google/cadvisor:latest registry.cn-hangzhou.aliyuncs.com/dhubio/cadvisor:latest
-# prom/node-exporter:v1.5.0 registry.cn-hangzhou.aliyuncs.com/dhubio/node-exporter:v1.5.0
-# grafana/grafana:9.4.3 registry.cn-hangzhou.aliyuncs.com/dhubio/grafana:9.4.3
-# feiyu563/prometheus-alert:latest registry.cn-hangzhou.aliyuncs.com/dhubio/prometheus-alert:latest
-minimalcompact/thumbor:latest registry.cn-hangzhou.aliyuncs.com/dhubio/thumbor:latest
+thumbororg/thumbor:latest registry.cn-hangzhou.aliyuncs.com/dhubio/thumbor:latest
 
