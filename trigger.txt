@@ -14,3 +14,4 @@ google/cadvisor:latest registry.cn-hangzhou.aliyuncs.com/dhubio/cadvisor:latest
 prom/node-exporter:v1.5.0 registry.cn-hangzhou.aliyuncs.com/dhubio/node-exporter:v1.5.0
 grafana/grafana:9.4.3 registry.cn-hangzhou.aliyuncs.com/dhubio/grafana:9.4.3
 feiyu563/prometheus-alert:latest registry.cn-hangzhou.aliyuncs.com/dhubio/prometheus-alert:latest
+minimalcompact/thumbor registry.cn-hangzhou.aliyuncs.com/dhubio/minimalcompact/thumbor
